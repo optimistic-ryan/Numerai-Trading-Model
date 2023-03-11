@@ -24,7 +24,6 @@ To install the required libraries, run the following command:
 ```
 !pip install numerapi catboost scipy numpy pandas matplotlib sklearn lightgbm
 ```
-
 ### Usage
 
 To use the script, simply run it in a Python environment, such as Jupyter Notebook. The script downloads the dataset automatically and saves the predictions in a submission file.
