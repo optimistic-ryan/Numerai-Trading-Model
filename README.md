@@ -22,9 +22,7 @@ The following libraries are required to run the script:
 To install the required libraries, run the following command:
 
 ```
-{
 !pip install numerapi catboost scipy numpy pandas matplotlib sklearn lightgbm
-}
 ```
 
 ### Usage
