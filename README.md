@@ -2,6 +2,11 @@
 
 This is a Python script that builds a machine learning model to predict the target variable in a Numerai tournament dataset. The script performs feature engineering, hyperparameter tuning, ensembling, regularization, validation, handling missing values, dimensionality reduction, and model selection. The script uses CatBoostRegressor and LGBMRegressor models to predict the target variable and ensemble the predictions. The performance of the models is evaluated using 5-fold cross-validation and spearman correlation coefficient.
 
+## Profit Analysis
+
+I achieved a 10% return on investments in 4 months. You can view and analyze my profit performance of the machine learning model by visiting the following link: https://numer.ai/beta_booster/submissions.
+
+
 ## Getting Started
 
 ### Prerequisites
