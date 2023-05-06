@@ -4,7 +4,7 @@ This is a Python script that builds a machine learning model to predict the targ
 
 ## Profit Analysis
 
-I achieved a 15% return on investments in 4 months. You can view and analyze my profit performance of the machine learning model by visiting the following link: https://numer.ai/alpha_analyzer.
+I achieved a 10% return on investments in 4 months. You can view and analyze my profit performance of the machine learning model by visiting the following link: https://numer.ai/alpha_analyzer.
 
 
 ## Getting Started
