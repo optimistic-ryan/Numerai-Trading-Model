@@ -13,7 +13,6 @@ The following libraries are required to run the script:
 * scipy
 * numpy
 * pandas
-* matplotlib
 * sklearn
 * lightgbm
 
